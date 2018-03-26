@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\phil\documents\visual studio 2017\projects\agencymanageraspnetcoreangular2\clientapp\app\components\app\app.component.html</string>
+      <string>c:\users\phil\documents\visual studio 2017\projects\agencymanageraspnetcoreangular2\clientapp\app\components\app\app.component.ts</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\Documents\Visual Studio 2017\Projects\AgencyManagerAspNetCoreAngular2\ClientApp\app\app.module.shared.ts</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\Documents\Visual Studio 2017\Projects\AgencyManagerAspNetCoreAngular2\appsettings.json</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\phil\documents\visual studio 2017\projects\agencymanageraspnetcoreangular2\clientapp\app\components\fetchdata\fetchdata.component.ts</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\Documents\Visual Studio 2017\Projects\AgencyManagerAspNetCoreAngular2\ClientApp\app\components\home\home.component.html</string>
+      <string>c:\users\phil\documents\visual studio 2017\projects\agencymanageraspnetcoreangular2\clientapp\app\components\home\home.component.ts</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\phil\documents\visual studio 2017\projects\agencymanageraspnetcoreangular2\controllers\homecontroller.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\Documents\Visual Studio 2017\Projects\AgencyManagerAspNetCoreAngular2\Views\Home\Index.cshtml</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\Documents\Visual Studio 2017\Projects\AgencyManagerAspNetCoreAngular2\ClientApp\dist\main-server.js</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\phil\documents\visual studio 2017\projects\agencymanageraspnetcoreangular2\clientapp\app\components\navmenu\navmenu.component.html</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\Documents\Visual Studio 2017\Projects\AgencyManagerAspNetCoreAngular2\package.json</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\Documents\Visual Studio 2017\Projects\AgencyManagerAspNetCoreAngular2\Startup.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\Documents\Visual Studio 2017\Projects\AgencyManagerAspNetCoreAngular2\tsconfig.json</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
